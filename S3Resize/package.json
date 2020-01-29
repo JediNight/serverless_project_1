@@ -1,0 +1,12 @@
+{
+  "name": "s3resize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "streams": "node buffer",
+    "s3start": "node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
